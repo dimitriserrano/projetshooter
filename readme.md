@@ -1,16 +1,16 @@
 # SHOOTER
 
-**Prérequis**
+## Prérequis
 
 Modifier le nom d'utilisateur et le mot de passe de la base de donnée par vos informations
 
-**Fonctionnement du jeu**
+## Fonctionnement du jeu
 
 Chaque joueur entrera son pseudo au lancement du jeu. Vous avez ensuite la possibilités de choisir plusieur options. Vous aller ainsi pouvoir choir le layout du jeu, le nombre de vie de chaque joueur et la vitesse du tir de chaque joueur. Le but du jeu est de tuer son adversaire jusqu'a ce qu'il ne possède plus de vie. Vous pourrez vous aider de rebond contre les murs pour plus d'efficacités.
 
 *Enjoy !*
 
-**Note sur le développement du jeu**
+## Note sur le développement du jeu
 
 Nous avons implémenter une physique à la balle à travers la possibilité de viser et les rebonds sur les murs.
 Nous avons ajouter 2 nouveaux écrans que sont l'écran vie, qui permet de choisir le nombre de vie de chaque joueur ainsi que l'écran layout qui permet de choisir le fond du jeu pour permettre au joueur de personnaliser leur expérience de jeu.
